@@ -33,7 +33,7 @@ a {
     font-size: 40px;
     border-radius: 5px;
     max-width: 500px;
-    padding: 10px;
-    background-color: aqua;
+    padding: 2px;
+    background-color: rgb(143, 246, 246);
     text-decoration: none;
 }
